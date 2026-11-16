@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Beibarys<br><br>- 🔭 I’m Software Engineer<br>- 📚 I'm currently learning Python, FastAPI, high load services</p>
+<p align="left">I'm Beibarys<br><br>- 🔭 I’m Software Engineer<br>- 📚 I'm currently building products</p>
 
 ###
 
